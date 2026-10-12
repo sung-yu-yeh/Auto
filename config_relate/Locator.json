@@ -1,0 +1,12 @@
+{
+    "login": {
+        "enter_password": {
+            "by": "name",
+            "value": "login_pw"
+        },
+        "login_button": {
+            "by": "id",
+            "value": "btn_login"
+        }
+    }
+}

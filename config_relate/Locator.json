@@ -5,8 +5,8 @@
             "value": "login_pw"
         },
         "login_button": {
-            "by": "id",
-            "value": "btn_login"
+            "by": "xpath",
+            "value": "//button[@type='submit' and @id='btn_login']"
         }
     }
 }
